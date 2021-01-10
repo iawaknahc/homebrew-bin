@@ -1,7 +1,7 @@
 class EfmLangserver < Formula
-  version "0.0.15"
+  version "0.0.26"
   url "https://github.com/mattn/efm-langserver/archive/v#{version}.tar.gz"
-  sha256 "fa238fce99a4c3f67e867e5f835a20efaa06826bda2040c398fabdbf77968c10"
+  sha256 "a7923aa2aeaa1933a919a27d8da65801bd94f3547f76e1122fe645129f3c1cf1"
 
   depends_on "go"
 
