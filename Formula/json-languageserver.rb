@@ -1,8 +1,10 @@
 require "language/node"
 
+# The installed binary is vscode-json-languageserver
+
 class JsonLanguageserver < Formula
-  url "https://registry.npmjs.org/vscode-json-languageserver-bin/-/vscode-json-languageserver-bin-1.0.1.tgz"
-  sha256 "ae2680e7a465f64a145e76c44c9a48e64376425fa8150997fc528a2d5be685c6"
+  url "https://registry.npmjs.org/vscode-json-languageserver/-/vscode-json-languageserver-1.3.1.tgz"
+  sha256 "11a26d727e540e6015ee658543f682764380f5f72ee29f596760b7db5eb10bd7"
 
   depends_on "node"
 
