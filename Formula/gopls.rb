@@ -1,6 +1,6 @@
 class Gopls < Formula
-  url "https://github.com/golang/tools/archive/gopls/v0.6.1.tar.gz"
-  sha256 "e02bd50379993220cec2c8a3ebda1214d759a547fb96daa41dbdd12d56e61a4f"
+  url "https://github.com/golang/tools/archive/gopls/v0.6.2.tar.gz"
+  sha256 "5103ccf16200000f92d1024cd662c589c7cae20955c9275234a10e942eff455a"
 
   depends_on "go"
 
